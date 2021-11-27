@@ -30,6 +30,9 @@ namespace Calculator
             return Number1 * Number2;
         }
 
-
+        public double Div()
+        {
+            return Number1 / Number2;
+        }
     }
 }

@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AdvancedCalc.cs" />
     <Compile Include="MainClass.cs" />
     <Compile Include="OrdinaryCalc.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

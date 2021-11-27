@@ -32,8 +32,10 @@ namespace Calculator
                     Console.WriteLine("Введите операцию, которую вы хотите произвести над числами: \n" +
                                       "+ => сложение; - => вычитание; * => умножение; / => деление"
                     );
-                    
-                    
+
+                    string operation = Console.ReadLine();
+
+
                 }
             }
 

@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace Calc2
 {
-    class Program
+    public interface IAdvanced
     {
-        static void Main(string[] args)
-        {
-        }
+        double Cos();
     }
 }
